@@ -8,3 +8,4 @@
 #### Task 7, this function that prints half of a string, followed by a new line.
 #### Task 8, this  function that prints n elements of an array of integers, followed by a new line
 #### Task 9, this function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+#### Task 10, this function that convert a string to an integer.
