@@ -4,6 +4,7 @@
  * _strncpy - function that copies a strings
  * @dest: the destination string
  * @src: the source string
+ * @n: the n bytes
  * Return: the compared strings
  */
 
