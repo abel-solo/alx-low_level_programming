@@ -7,7 +7,6 @@
  * @n: the amount of bytes
  * Return: pointer to the resulting string dest
  */
-
 char *_strncat(char *dest, char *src, int n)
 {
 		int i, j;
