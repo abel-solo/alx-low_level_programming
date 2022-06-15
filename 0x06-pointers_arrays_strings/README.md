@@ -1,9 +1,10 @@
-#### 0, This program concatenates two strings
-#### 1, This program concatenates two strings with n bytes
-#### 2, this program copies a string.
-#### 3, This program compares two strings
-#### 4, This program reverses the content of an array of integers
-#### 5, This program changes all lowercase letters of a string to uppercase
-#### 6, This program capitalizes all words of a string
-#### 7, This program encodes a string into 1337
-#### 8, This program encodes a string using rot13
+#### 0, This code concatenates two strings
+#### 1, This code concatenates two strings with n bytes
+#### 2, this code copies a string.
+#### 3, This code compares two strings
+#### 4, This code reverses the content of an array of integers
+#### 5, This code changes all lowercase letters of a string to uppercase
+#### 6, This code capitalizes all words of a string
+#### 7, This code encodes a string into 1337
+#### 8, This code encodes a string using rot13
+#### 9, This code prints an integer 
