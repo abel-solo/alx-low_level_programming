@@ -8,4 +8,5 @@
 #### 7, This code encodes a string into 1337
 #### 8, This code encodes a string using rot13
 #### 9, This code prints an integer
-#### 10, This code  prints a[2] = 98, followed by a new line 
+#### 10, This code  prints a[2] = 98, followed by a new line
+#### 11, This code  adds two numbers 
