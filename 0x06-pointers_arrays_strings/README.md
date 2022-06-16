@@ -7,4 +7,5 @@
 #### 6, This code capitalizes all words of a string
 #### 7, This code encodes a string into 1337
 #### 8, This code encodes a string using rot13
-#### 9, This code prints an integer 
+#### 9, This code prints an integer
+#### 10, This code  prints a[2] = 98, followed by a new line 
