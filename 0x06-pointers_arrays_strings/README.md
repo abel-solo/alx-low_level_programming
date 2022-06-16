@@ -9,4 +9,5 @@
 #### 8, This code encodes a string using rot13
 #### 9, This code prints an integer
 #### 10, This code  prints a[2] = 98, followed by a new line
-#### 11, This code  adds two numbers 
+#### 11, This code  adds two numbers
+#### 12, This code prints a buffer 
