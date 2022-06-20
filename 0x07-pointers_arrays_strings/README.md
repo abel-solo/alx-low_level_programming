@@ -1,2 +1,3 @@
-#### 1, this code copies n bytes from memory area src to memory area dest
-#### 2, This code  copies n bytes from memory area src to memory area dest
+#### 1, this code fills memory with a constant byte
+#### 2, This code copies memory area
+#### 3, This code locates a character in a string
