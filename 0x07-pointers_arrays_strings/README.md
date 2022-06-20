@@ -7,3 +7,4 @@
 #### 7, This code prints the chessboard
 #### 8, This code prints the sum of the two diagonals of a square matrix of integers
 #### 9, This code sets the value of a pointer to a char
+#### 10, This code Create a file that contains the password for the crackme2 executable.
