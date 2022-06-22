@@ -13,3 +13,4 @@ Fundamental of recursion and how to apply it
 * 5-sqrt_recursion.c - this code returns the natural square root of a number
 * 6-is_prime_number.c - this code returns 1 if the input integer is a prime number, otherwise return 0
 * 100-is_palindrome.c - this code returns 1 if a string is a palindrome and 0 if not
+* 101-wildcmp.c -this code compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
