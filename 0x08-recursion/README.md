@@ -10,3 +10,4 @@ Fundamental of recursion and how to apply it
 2-strlen_recursion.c - this program returns the length of a string
 3-factorial.c - this code returns the factorial of a givin number
 4-pow_recursion.c - this code returns the value of x raised to the power of y
+5-sqrt_recursion.c - this code returns the natural square root of a number
