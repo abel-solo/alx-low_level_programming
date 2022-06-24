@@ -2,7 +2,7 @@
 ---
 ![image](https://cdn.pixabay.com/photo/2022/02/13/02/07/retro-7010205__340.png "C is Fun")
 
-## Introduction
+## **Introduction**
 This low level programming project repository containes a bunch of folders which contains a programs that are written using `C`
 
 ## Projects
