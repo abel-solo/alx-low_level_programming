@@ -1,4 +1,5 @@
 # 0x00-hello_world
+---
 ## Description about the project
 ---
 The main goal of this project is 
@@ -17,12 +18,12 @@ The main goal of this project is
 * How does the `main` function influence the return value of the program
 
 ## Requirements
----
+
 * Ubuntu 20.04 LTS
 * gcc using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
 
 ## Tasks
----
+
 ### Mandatory Tasks
 [0-preprocessor](#0-preprocessor) - a script that runs a C which is saved as a variable named `$CFILE` file through the preprocessor and save the result into another file named `c`
 
@@ -34,7 +35,7 @@ The main goal of this project is
 
 [4-puts.c](#4-puts.c) - this C program that prints exactly `"Programming is like building a multilingual puzzle,` followed by a new line
 
-[5-printf.c](#5-printf.c) - this C program that prints exactly `with proper grammar, but the outcome is a piece of art,,` followed by a new line
+[5-printf.c](#5-printf.c) - this C program that prints exactly `with proper grammar, but the outcome is a piece of art,` followed by a new line
 
 [6-size.c](#6-size.c) - this C program that prints the size of various types on the computer it is compiled and run on
 
