@@ -9,7 +9,7 @@
 
 char *_strdup(char *str)
 {
-	unsigned int i = 0;	
+	unsigned int i = 0;
 	unsigned int j = 0;
 
 	char *s;
