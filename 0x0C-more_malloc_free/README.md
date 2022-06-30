@@ -2,7 +2,7 @@
 
 ### Description about the project
 
-** The main goal of this project is **
+**The main goal of this project is**
 * How to use the `exit` function
 * What are the functions `calloc` and `realloc` from the standard library and how to use them
 
@@ -12,7 +12,7 @@
 
 ## Tasks
 
-** Mandatory Tasks **
+**Mandatory Tasks**
 
 [0-malloc_checked.c](0-malloc_checked.c) - a function that allocates memory using `malloc`
 
