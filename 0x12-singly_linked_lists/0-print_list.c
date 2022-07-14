@@ -8,14 +8,15 @@
  */
 size_t print_list(const list_t *h)
 {
-	const list_t *tmp;
-	unsigned int i;
+	size_t nbr_nodes = 0;
+	const list_t *current = h;
 
-	tmp = h;
-	for (i = 0; tmp; i++)
+	while (current != NULL)
 	{
-		printf("[%u] %s\n", tmp->len, tmp->str);
-		tmp = tmp->next;
+		printf("[%d] %s\n", current->len,
+		current->str != NULL ? current->str : "(nil)");
+		current = current->next;
+		nbr_nodes++;
 	}
-	return (i);
+	return (nbr_nodes);
 }
