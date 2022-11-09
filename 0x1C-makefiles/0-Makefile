@@ -1,1 +1,1 @@
-make -f school
+make -o school
